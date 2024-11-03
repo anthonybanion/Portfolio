@@ -5,12 +5,12 @@ body{
     font-family: "Raleway", sans-serif;
     width: 1440px;
     height: 5020px;
+    background-color: #E0EDF3;
 }
 
 header{
     width: 1440px;
     height: 520px;
-    background-color: aqua;
 
 }
 
@@ -99,7 +99,7 @@ header{
 .about{
     height: 383px;
     width: 100%;
-    background-color: aquamarine;
+    background-color: #0EF0F0;
 }
 
 .about__container{
@@ -140,5 +140,5 @@ header{
 .main{
     width: 1440px;
     height: 1245px;
-    background-color: bisque;
+ 
 }
